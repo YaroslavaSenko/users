@@ -1,5 +1,5 @@
 import { useDispatch } from "react-redux";
-import { BgImage, LogoImage, CardUser, WrapperAvatar, User, AvatarImage, Tweet, Follower, Button } from "./CardsItem.styled";
+import { BgImage, LogoImage, CardUser, User, AvatarImage, Tweet, Follower, Button } from "./CardsItem.styled";
 import { fetchFollow } from "../../../redux/operations";
 import Vector from '../../img/Vector.png';
 import picture2 from '../../img/picture2 1.png';
